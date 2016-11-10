@@ -75,7 +75,7 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic5.png)
 
   4.2). รันโปรแกรม และบันทึกผลที่ได้
-![]()
+![](https://github.com/rungtip214/LAB-05/blob/master/img/Capture06.PNG?raw=true)
 
 5). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของอาร์กิวเมนต์
   5.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -83,6 +83,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic6.png)
 
   5.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+  
 
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
