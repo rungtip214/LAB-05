@@ -93,7 +93,7 @@
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
   
-  ![]()
+  ![](https://github.com/rungtip214/LAB-05/blob/master/img/Capture08.PNG?raw=true)
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
