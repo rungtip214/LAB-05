@@ -118,3 +118,7 @@
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
+
+ได้ดังนี้
+
+![](https://github.com/rungtip214/LAB-05/blob/master/img/Capture09.PNG?raw=true)
