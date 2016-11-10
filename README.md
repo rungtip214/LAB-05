@@ -17,6 +17,7 @@
   2.2). รันโปรแกรม และบันทึกผลที่ได้
 
 ผลที่ออกมาได้ จะมีคำว่า This is text 1 บรรทัดถัดไป คือ This is text 2 บรรทัดที่3 คือ this is text 3
+![](https://github.com/rungtip214/LAB-05/blob/master/img/Capture01.PNG?raw=true)
 
  2.3). แก้โปรแกรมตามรูปด้านล่างนี้
  
